@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import Canvas from "cl-uni/utils/canvas";
+import Canvas from "cl-uni-2/utils/canvas";
 
 const { windowWidth } = uni.getSystemInfoSync();
 

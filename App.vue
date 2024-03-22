@@ -14,7 +14,7 @@ export default {
 
 <style lang="scss">
 @import "./static/css/index.scss";
-@import "cl-uni/index.scss";
+@import "cl-uni-2/index.scss";
 page {
 	background-color: #f7f7f7;
 }

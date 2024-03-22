@@ -1,6 +1,6 @@
 import Vue from "vue"
 import App from "./App"
-import cooluni from 'cl-uni'
+import cooluni from 'cl-uni-2'
 
 Vue.config.productionTip = false
 
